@@ -6,33 +6,37 @@ title: Fengqing Jiang
 superuser: true
 
 # Role/position/tagline
-role: Senior Undergraduate 
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Zhejiang University
+  - name: University of Washington
     url: https://www.zju.edu.cn/
-  - name: University of Illinois at Urbana-Champaign 
-    url: https://illinois.edu/
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computer systems and distributed systems
 
 # Interests to show in About widget
 interests:
-  - Computer Systems
-  - Distributed Systems
+  - Security
+  - Artificial Intelligence 
+  - System
   
 
 # Education to show in About widget
 education:
   courses:
-    - course: B.Eng in Electrical Engineering
-      institution: Zhejiang University
-      year: 2018 - 2022
+    - course: Doctoral Student
+      institution: University of Washington, Seattle
+      year: 2022 - Present
     - course: B.Sc in Electrical Engineering
       institution: University of Illinois at Urbana-Champaign 
       year: 2018 - 2022
+    - course: B.Eng in Electrical Engineering
+      institution: Zhejiang University
+      year: 2018 - 2022
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,6 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a senior undergraduate majored in Electrical Engineering. And I also completed a minor in Computer Science. After 2022, I will start my new stage for PhD study.
+Since 2022 Fall, I became a Ph.D. student at University of Washington, Seattle. My main research is at intersection of AI, System and Security. Before that, I got Bachelor degrees from University of Illinois at Urbana-Champaign and Zhejiang University.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
